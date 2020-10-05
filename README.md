@@ -9,4 +9,11 @@ This project was created with:
 * HTML/CSS
 
 # To Run
-To run this project
+To run this project:
+
+```
+$ cd ../index.js
+$ node index.js
+```
+
+Next open up index.html and everything should be working
